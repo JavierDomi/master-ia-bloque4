@@ -2,7 +2,7 @@
 
 # P1. Entorno
 
-Trabaja en tu carpeta `bloque4`, la que preparaste en la sesión 0: un solo entorno virtual y un solo `.env` para todo el bloque. Descarga ahí, desde el repositorio del bloque ([github.com/JavierDomi/master-ia-bloque4](https://github.com/JavierDomi/master-ia-bloque4)), el contenido de la carpeta `s1-llm-apis/codigo/` (sobre todo `s1_hola_tres.py`, `llm_client.py`, `s1_comparativa.py` y `s1_streaming.py`), activa el entorno y actualiza las dependencias. Si no hiciste la puesta a punto, sigue antes la guía de la sesión 0 (entorno, `.env` y `python crear_bd.py`).
+Trabaja en tu carpeta `bloque4`, la que preparaste en la sesión 0: un solo entorno virtual y un solo `.env` para todo el bloque. Descarga ahí, desde el repositorio del bloque ([github.com/JavierDomi/master-ia-bloque4](https://github.com/JavierDomi/master-ia-bloque4)), los ficheros de la carpeta `s1-llm-apis/` y los scripts de cada práctica, todo junto (`s1_hola_tres.py`, `llm_client.py`, `s1_comparativa.py` y `s1_streaming.py`), activa el entorno y actualiza las dependencias. Si no hiciste la puesta a punto, sigue antes la guía de la sesión 0 (entorno, `.env` y `python crear_bd.py`).
 
 ```
 source .venv/bin/activate        # Windows: .venv\Scripts\Activate.ps1

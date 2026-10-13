@@ -24,8 +24,8 @@ Cada carpeta se publica antes de su clase.
 
 Trabaja siempre en tu carpeta `bloque4`, la que preparaste en la sesión 0 con la
 [guía de puesta a punto](s0-intro/README.md): un solo entorno virtual (`.venv`) y un solo `.env` para todo el bloque.
-Este repositorio es solo el material: **copia en `bloque4` el contenido de la carpeta `codigo/` de cada sesión** y
-trabaja allí.
+Este repositorio es solo el material: **copia en `bloque4` los ficheros de cada sesión y los scripts de sus prácticas,
+todo junto** (los scripts se importan unos a otros), y trabaja allí.
 
 - **Descarga:** botón **Code › Download ZIP**, o clona el repositorio y actualízalo cada semana:
 
@@ -38,10 +38,17 @@ trabaja allí.
 
   ```
   s1-llm-apis/
-  ├── README.md      índice de prácticas, entregable y puesta en marcha
-  ├── enunciados/    un enunciado por práctica: P1-….md, P2-….md…
-  ├── codigo/        los scripts de la sesión: cópialos en bloque4
-  └── slides/        las slides en PDF
+  ├── README.md               índice de prácticas, entregable y puesta en marcha
+  ├── requirements.txt        preparación: dependencias, plantilla de .env y base de datos
+  ├── .env.example
+  ├── crear_bd.py
+  ├── P1-entorno/             una carpeta por práctica:
+  │   └── README.md           el enunciado
+  ├── P2-…/
+  │   ├── README.md
+  │   └── s1_hola_tres.py     y el código que usa
+  ├── …
+  └── slides/                 las slides en PDF
   ```
 
 - **Esqueletos:** algunos ficheros vienen a medias a propósito. Lo que falta está marcado con `TODO` y el enunciado

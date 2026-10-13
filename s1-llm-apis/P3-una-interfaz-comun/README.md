@@ -4,7 +4,7 @@
 
 El patrón Adapter oculta las diferencias entre SDK tras un único método `responder()`. El resto del bloque lo usará cuando el proveedor dé igual. El atributo `formato` indica qué formato de API habla cada proveedor (`"responses"`, `"messages"`, `"interactions"` o `"chat"`, es decir, Chat Completions) y decide qué rama de `responder()` se ejecuta.
 
-Código: [`llm_client.py`](../codigo/llm_client.py)
+Código: [`llm_client.py`](llm_client.py)
 
 Te damos un esqueleto: la clase `Respuesta`, el constructor con los clientes ya creados y la rama `"chat"` de `responder()` hecha, que te sirve de modelo. Tareas:
 
