@@ -24,7 +24,8 @@ Cada carpeta se publica antes de su clase.
 
 Trabaja siempre en tu carpeta `bloque4`, la que preparaste en la sesión 0 con la
 [guía de puesta a punto](s0-intro/README.md): un solo entorno virtual (`.venv`) y un solo `.env` para todo el bloque.
-Este repositorio es solo el material: **copia en `bloque4` los ficheros de cada sesión** y trabaja allí.
+Este repositorio es solo el material: **copia en `bloque4` el contenido de la carpeta `codigo/` de cada sesión** y
+trabaja allí.
 
 - **Descarga:** botón **Code › Download ZIP**, o clona el repositorio y actualízalo cada semana:
 
@@ -33,8 +34,16 @@ Este repositorio es solo el material: **copia en `bloque4` los ficheros de cada 
   git pull        # cada semana, para traer la sesión nueva
   ```
 
-- **En cada carpeta** tienes un `README.md` con el índice y la puesta en marcha, un enunciado por práctica
-  (`P1-….md`, `P2-….md`…), el código de la sesión y las slides en PDF.
+- **Cada sesión** tiene la misma estructura:
+
+  ```
+  s1-llm-apis/
+  ├── README.md      índice de prácticas, entregable y puesta en marcha
+  ├── enunciados/    un enunciado por práctica: P1-….md, P2-….md…
+  ├── codigo/        los scripts de la sesión: cópialos en bloque4
+  └── slides/        las slides en PDF
+  ```
+
 - **Esqueletos:** algunos ficheros vienen a medias a propósito. Lo que falta está marcado con `TODO` y el enunciado
   de la práctica dice qué hay que completar.
 - **Soluciones:** se publican en la carpeta `soluciones/` de cada sesión cuando pasa su fecha de entrega.

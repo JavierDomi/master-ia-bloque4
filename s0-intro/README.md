@@ -92,9 +92,9 @@ estar juntos).
 > `pip install -r requirements.txt` en ese mismo entorno.
 
 1. Crea una carpeta de trabajo, por ejemplo `bloque4`.
-2. Descarga del repositorio del bloque el material de hoy y guárdalo en esa carpeta. Para la puesta a punto necesitas:
+2. Copia en esa carpeta el contenido de `s0-intro/codigo/` del repositorio del bloque. Para la puesta a punto necesitas:
    `requirements.txt`, `.env.example` y `crear_bd.py`.
-   En cada sesión descargarás los ficheros nuevos **en esta misma carpeta**.
+   En cada sesión copiarás aquí el contenido de la carpeta `codigo/` de esa sesión, **siempre en esta misma carpeta**.
 3. En VS Code: **File › Open Folder…** y elige esa carpeta.
 4. Abre la terminal integrada (estará ya en esa carpeta) y crea el **entorno virtual**:
 

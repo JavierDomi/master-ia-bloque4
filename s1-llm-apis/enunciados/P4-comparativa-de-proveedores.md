@@ -2,7 +2,7 @@
 
 # P4. Comparativa de proveedores
 
-Código: [`s1_comparativa.py`](s1_comparativa.py)
+Código: [`s1_comparativa.py`](../codigo/s1_comparativa.py)
 
 Primero completa el bucle de `s1_comparativa.py` (el `TODO`): para cada proveedor, un `LLM` que responde a los cinco correos, y una fila del CSV por respuesta con las columnas de la cabecera. Usa tu `llm_client.py` de P3. Ejecútalo para generar `comparativa.csv`.
 

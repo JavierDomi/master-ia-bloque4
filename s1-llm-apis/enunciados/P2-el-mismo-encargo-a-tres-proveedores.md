@@ -4,7 +4,7 @@
 
 El script manda el mismo encargo a tres modelos distintos, cada uno con un formato de API diferente: OpenAI con la Responses API, Claude con la Messages API y Gemini con Chat Completions a través de OpenRouter (o con su Interactions API nativa si has puesto `GEMINI_API_KEY`).
 
-Código: [`s1_hola_tres.py`](s1_hola_tres.py)
+Código: [`s1_hola_tres.py`](../codigo/s1_hola_tres.py)
 
 Ejecuta el script dos veces y responde en equipo:
 
