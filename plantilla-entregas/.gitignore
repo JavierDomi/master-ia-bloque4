@@ -1,0 +1,22 @@
+# Copia este fichero a la raíz de tu repositorio de entregas ANTES del primer commit.
+
+# Tu .env lleva tu clave de API: no se sube nunca
+.env
+.env.*
+
+# Entorno virtual y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Bases de datos generadas (se recrean con python crear_bd.py)
+*.db
+*.sqlite
+*.sqlite3
+
+# Sistema y editores
+.DS_Store
+.vscode/
+.idea/

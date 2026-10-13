@@ -1,0 +1,21 @@
+# Secrets: your .env holds your API key
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Generated data
+*.db
+*.sqlite
+*.sqlite3
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
