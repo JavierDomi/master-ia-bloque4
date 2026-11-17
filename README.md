@@ -16,7 +16,7 @@ Cada carpeta se publica antes de su clase.
 | 1 | Martes 13 oct | [Integración con LLMs: APIs de OpenAI, Gemini y Claude](s1-llm-apis/) | E1 (10 %) · viernes 16 oct, 23:59 |
 | 2 | Martes 20 oct | [Salidas estructuradas y uso de herramientas](s2-structured-output-tools/) | E2 (15 %) · domingo 25 oct, 23:59 |
 | 3 | Martes 27 oct | [Agentes I: el bucle agéntico, razonamiento y planificación](s3-agents-loop-reasoning/) | E3 (15 %) · domingo 1 nov, 23:59 |
-| 4 | Martes 17 nov | Agentes II: memoria y contexto *(próximamente)* | E4 (15 %) |
+| 4 | Martes 17 nov | [Agentes II: memoria y contexto](s4-agents-memory-context/) | E4 (15 %) · domingo 22 nov, 23:59 |
 | 5 | 2.º trimestre | MCP I: el protocolo y tu primer servidor *(próximamente)* | E5 (15 %) |
 | 6 | 2.º trimestre | MCP II: clientes, seguridad y proyecto integrador *(próximamente)* | E6 (30 %) |
 
